@@ -1,3 +1,3 @@
-echo Hello Word
+echo Hello ibrahim
 
 exit 0
